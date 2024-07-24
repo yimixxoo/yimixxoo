@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi 👋
 
+Love coding ~ Keep Coding ~ 
 <!--
 **yimixxoo/yimixxoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
